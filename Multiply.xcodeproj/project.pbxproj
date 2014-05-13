@@ -22,7 +22,6 @@
 		0E354257192162D200BA64B9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0E354255192162D200BA64B9 /* InfoPlist.strings */; };
 		0E354259192162D200BA64B9 /* MultiplyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E354258192162D200BA64B9 /* MultiplyTests.m */; };
 		0ED595E41921788D002ACB03 /* CheckMate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0ED595E31921788D002ACB03 /* CheckMate.framework */; };
-		0ED595E619218FDA002ACB03 /* stock-photo-render-of-the-number-with-brushed-metal-texture-isolated-on-white-116782120.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0ED595E519218FDA002ACB03 /* stock-photo-render-of-the-number-with-brushed-metal-texture-isolated-on-white-116782120.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,7 +55,6 @@
 		0E354256192162D200BA64B9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0E354258192162D200BA64B9 /* MultiplyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MultiplyTests.m; sourceTree = "<group>"; };
 		0ED595E31921788D002ACB03 /* CheckMate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CheckMate.framework; path = ../CheckMate.framework; sourceTree = "<group>"; };
-		0ED595E519218FDA002ACB03 /* stock-photo-render-of-the-number-with-brushed-metal-texture-isolated-on-white-116782120.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "stock-photo-render-of-the-number-with-brushed-metal-texture-isolated-on-white-116782120.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,7 +121,6 @@
 				0E35423F192162D200BA64B9 /* Main.storyboard */,
 				0E354242192162D200BA64B9 /* ViewController.h */,
 				0E354243192162D200BA64B9 /* ViewController.m */,
-				0ED595E519218FDA002ACB03 /* stock-photo-render-of-the-number-with-brushed-metal-texture-isolated-on-white-116782120.jpg */,
 				0E354245192162D200BA64B9 /* Images.xcassets */,
 				0E354234192162D200BA64B9 /* Supporting Files */,
 			);
@@ -235,7 +232,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0ED595E619218FDA002ACB03 /* stock-photo-render-of-the-number-with-brushed-metal-texture-isolated-on-white-116782120.jpg in Resources */,
 				0E354246192162D200BA64B9 /* Images.xcassets in Resources */,
 				0E354238192162D200BA64B9 /* InfoPlist.strings in Resources */,
 				0E354241192162D200BA64B9 /* Main.storyboard in Resources */,

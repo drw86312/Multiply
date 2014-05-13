@@ -58,7 +58,7 @@
         self.myAnswer.text = stringValue;
     }
 
-    [self.myNumber resignFirstResponder];
+    [self dismissKeyboard];
 
 }
 
